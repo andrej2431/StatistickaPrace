@@ -4,10 +4,12 @@ import json
 
 indicators = {
     "tuberculosis_cases": "Number of incident tuberculosis cases",
+    "tuberculosis_deaths": "Number of deaths due to tuberculosis, excluding HIV",
+
     "hepatitis_B_cases": "People living with chronic hepatitis B (HBV) (number)",
-    "hepatitis_C_cases": "People living with chronic hepatitis C (HCV) (number)",
-    "tuberculosis_deaths": "Deaths due to tuberculosis among HIV-negative people (per 100 000 population)",
     "hepatitis_B_deaths": "Deaths caused by chronic hepatitis B (HBV) infection (number)",
+
+    "hepatitis_C_cases": "People living with chronic hepatitis C (HCV) (number)",
     "hepatitis_C_deaths": "Deaths caused by chronic hepatitis C (HCV) infection (number)"
 }
 
@@ -43,7 +45,7 @@ def store_indicators():
             store_indicator_data(indicator_code, filename)
         else:
             print(f"failed to get indicator code for {indicator}")
-        sleep(0.2)
+        sleep(0.1)
 
 
 if __name__ == '__main__':
