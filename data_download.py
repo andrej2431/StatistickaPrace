@@ -3,13 +3,8 @@ from time import sleep
 import json
 
 indicators = {
-    "tuberculosis_cases": "Number of incident tuberculosis cases",
     "tuberculosis_deaths": "Number of deaths due to tuberculosis, excluding HIV",
-
-    "hepatitis_B_cases": "People living with chronic hepatitis B (HBV) (number)",
     "hepatitis_B_deaths": "Deaths caused by chronic hepatitis B (HBV) infection (number)",
-
-    "hepatitis_C_cases": "People living with chronic hepatitis C (HCV) (number)",
     "hepatitis_C_deaths": "Deaths caused by chronic hepatitis C (HCV) infection (number)"
 }
 
