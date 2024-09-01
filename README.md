@@ -1,4 +1,4 @@
-# Štatistická práca
+# Štatistická práca na úmrtnosť na tuberkulózu/hepatitídu a GDP per capita
 ## Získanie dát
 Všetok kód na získanie dát sa nachádza v [data_download.py](./data_download.py)
 ### Úmrtia na choroby
