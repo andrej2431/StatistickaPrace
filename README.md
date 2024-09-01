@@ -245,7 +245,7 @@ Tento line plot nerieši hodnoty gdp len poradia medzi krajinamy a zároveň som
 
 ***
 ## Záver a diskusia
-Nakoniec je vidieť že úmrtnosť na hepatitídu B je zďaľeka najviac ovplyvniteľná tým, aké GDP per capita je v krajine.  
+Nakoniec je vidieť že úmrtnosť na hepatitídu B je ovplyvniteľná tým, aké GDP per capita je v krajine. (Síce korelácia sa nerovná kauzalite, ale podľa mna v tomto prípade dáva celkom dosť zmysel že horšie gdp spôsobuje viacej úmrtí.) 
 Pôvodne som si myslel, že budú aj tie zvyšné choroby viacej ovplyvnené GDP, čiže musím povedať že som výsledkom prekvapený.  
 Dôvodov prečo to tak je mi napadlo viacero, napríklad je možné že sa veľa úmrtí na tieto choroby v chudobnejších krajinách neregistruje.  
 Taktiež asi pomáha externá pomoc v rámci charít etc. v chudobnejší krajinách.  
